@@ -1,5 +1,4 @@
 :root {
-  --bg-color: blue;
 }
 
 * {
@@ -30,5 +29,4 @@ ul {
 body {
   margin: 0;
   font-family: sans-serif;
-  background-color: var(--bg-color);
 }
