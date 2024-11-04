@@ -1,3 +1,7 @@
+:root {
+  --bg-color: blue;
+}
+
 * {
   box-sizing: border-box;
 }
@@ -26,4 +30,5 @@ ul {
 body {
   margin: 0;
   font-family: sans-serif;
+  background-color: var(--bg-color);
 }
